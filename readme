@@ -1,0 +1,10 @@
+StudyWizard is a Streamlit app 
+
+- Uploads PDF notes
+- Generates summaries
+- Creates quizzes
+- Builds flashcards
+- Uses Google Gemini AI
+
+pip install -r requirements.txt
+streamlit run app.py
